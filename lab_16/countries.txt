@@ -1,0 +1,17 @@
+United States | English
+Japan | Japanese
+Russia | Russian
+Mexico | Spanish
+Canada | English
+United Kingdom | English
+Spain | Spanish
+Germany | German
+United States  |  English
+Japan  |  Japanese
+Russia  |  Russian
+Mexico  |  Spanish
+Canada  |  English
+United Kingdom  |  English
+Spain  |  Spanish
+Germany  |  German
+aus | g
